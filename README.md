@@ -1,1 +1,1 @@
-# C23P
+# Box Class
